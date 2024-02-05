@@ -12,7 +12,7 @@ const VoluemController = ({ isVolumeVisible }) => {
                 min={0}
                 max={100}
                 step="0.1"
-                value={0}
+                // value={0}
                 className="w-full h-[5px] text-green-400 cursor-pointer"
             />
         </div>
